@@ -44,13 +44,13 @@ Overall, focusing on these areas could make the prediction model work even bette
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](https://raw.githubusercontent.com/aser-h/Udacity-AWS-Bike-Prediction-Project/main/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](https://raw.githubusercontent.com/aser-h/Udacity-AWS-Bike-Prediction-Project/main/model_test_score.png)
 
 ## Summary
 For this project, AutoGluon was used to predict bike rental demand. A baseline model was first trained and it was observed that it performed  with a score of 1.8033. To improve the model's performance, exploratory data analysis and feature engineering were conducted, which helped identify temporal patterns in bike rental demand. By adding these additional features, the model's performance was significantly enhanced, with score of 0.69561.
